@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="webapp" />
         <module name="custom-class-loader" />
+        <module name="pom-parser" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
